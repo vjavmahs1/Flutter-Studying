@@ -1,6 +1,6 @@
 # flutter_complete_guide
 
-A new Flutter project.
+History for studying flutter 
 
 ## Getting Started
 
